@@ -3,8 +3,8 @@
     <account id="23c32bcd-b74d-410c-a5cc-387a2dc38d68" name="thucydides1">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="CLONE_GIT_USING_SSH" value="true" />
+    <account id="8f5eca20-f816-4d19-92fa-8138f96a6f90" name="thucydidesx">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
