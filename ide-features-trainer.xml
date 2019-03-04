@@ -146,6 +146,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Refactorings.Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1551739910785" />
+            </StatisticData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
